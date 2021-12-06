@@ -7,13 +7,13 @@ export const TestimonialSlider: React.FC = () => {
     <Container>
       <div className="testimonial-slider">
         <Card>
-          <Carousel>
+          <Carousel interval={null}>
             <Carousel.Item>
               <Row>
-                <Col lg={6} className="testimonial-img">
+                <Col sm={6} className="testimonial-img">
                   <img src={vigi} alt="" />
                 </Col>
-                <Col lg={6} className="testimonial-desc">
+                <Col sm={6} className="testimonial-desc">
                   <h4 className="testimonial-name">Alien Kopil</h4>
                   <p className="testimonial-title">CEO - Notun Inc.</p>
                   <p className="testimonial-description">

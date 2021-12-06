@@ -1,13 +1,21 @@
 import styled from "styled-components";
 
 export const TestimonialsMainContainer = styled.div`
-  height: 500px;
+  height: 700px;
 
   margin-top: 15%;
 
+  .card {
+    padding: 20px;
+    width: 80%;
+  }
+
   .testimonial-slider {
+    display: flex;
+    justify-content: center;
+
     .carousel {
-      height: 250px;
+      padding: 40px;
 
       * {
         color: #000;
