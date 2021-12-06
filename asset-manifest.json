@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/nonametemplate/static/js/main.82a1cfdc.chunk.js",
+    "main.js.map": "/nonametemplate/static/js/main.82a1cfdc.chunk.js.map",
+    "runtime-main.js": "/nonametemplate/static/js/runtime-main.7c2347a7.js",
+    "runtime-main.js.map": "/nonametemplate/static/js/runtime-main.7c2347a7.js.map",
+    "static/css/2.7bc4cbcc.chunk.css": "/nonametemplate/static/css/2.7bc4cbcc.chunk.css",
+    "static/js/2.393f1e54.chunk.js": "/nonametemplate/static/js/2.393f1e54.chunk.js",
+    "static/js/2.393f1e54.chunk.js.map": "/nonametemplate/static/js/2.393f1e54.chunk.js.map",
+    "static/js/3.4ed3ddac.chunk.js": "/nonametemplate/static/js/3.4ed3ddac.chunk.js",
+    "static/js/3.4ed3ddac.chunk.js.map": "/nonametemplate/static/js/3.4ed3ddac.chunk.js.map",
+    "index.html": "/nonametemplate/index.html",
+    "static/css/2.7bc4cbcc.chunk.css.map": "/nonametemplate/static/css/2.7bc4cbcc.chunk.css.map",
+    "static/js/2.393f1e54.chunk.js.LICENSE.txt": "/nonametemplate/static/js/2.393f1e54.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/nonametemplate/static/media/bootstrap-icons.ea6f3dfe.woff",
+    "static/media/red-hat-text-v6-latin-regular.cc5bfd1a.woff": "/nonametemplate/static/media/red-hat-text-v6-latin-regular.cc5bfd1a.woff",
+    "static/media/red-hat-text-v6-latin-regular.f42b9584.woff2": "/nonametemplate/static/media/red-hat-text-v6-latin-regular.f42b9584.woff2",
+    "static/media/vigi.7a745899.jpg": "/nonametemplate/static/media/vigi.7a745899.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c2347a7.js",
+    "static/css/2.7bc4cbcc.chunk.css",
+    "static/js/2.393f1e54.chunk.js",
+    "static/js/main.82a1cfdc.chunk.js"
+  ]
+}
